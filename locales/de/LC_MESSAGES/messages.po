@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-07-17 23:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: German <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: lib/narrator.py:19 lib/narrator.py:23
+msgid "and"
+msgstr "und"
+
+#: lib/narrator.py:28
+msgid "%(name)s was born on %(date)s in %(place)s."
+msgstr "%(name)s wurde am %(date)s in %(place)s geboren."
+
+#: lib/narrator.py:29
+msgid "%(name)s was born in %(date)s in %(place)s."
+msgstr "%(name)s wurde %(date)s in %(place)s geboren."
+
+#: lib/narrator.py:32
+msgid "He was born on %(date)s in %(place)s."
+msgstr "Er wurde am %(date)s in %(place)s geboren."
+
+#: lib/narrator.py:33
+msgid "He was born in %(date)s in %(place)s."
+msgstr "Er wurde %(date)s in %(place)s geboren."
+
+#: lib/narrator.py:36
+msgid "She was born on %(date)s in %(place)s."
+msgstr "Sie wurde am %(date)s in %(place)s geboren."
+
+#: lib/narrator.py:37
+msgid "She was born in %(date)s in %(place)s."
+msgstr "Sie wurde %(date)s in %(place)s geboren."
+
+#: lib/narrator.py:44
+msgid "%(name)s was born on %(date)s."
+msgstr "%(name)s wurde am %(date)s geboren."
+
+#: lib/narrator.py:45
+msgid "%(name)s was born in %(date)s."
+msgstr "%(name)s wurde %(date)s geboren."
+
+#: lib/narrator.py:48
+msgid "He was born on %(date)s."
+msgstr "Er wurde am %(date)s geboren."
+
+#: lib/narrator.py:49
+msgid "He was born in %(date)s."
+msgstr "Er wurde %(date)s geboren."
+
+#: lib/narrator.py:52
+msgid "She was born on %(date)s."
+msgstr "Sie wurde am %(date)s geboren."
+
+#: lib/narrator.py:53
+msgid "She was born in %(date)s."
+msgstr "Sie wurde %(date)s geboren."
+
+#: lib/narrator.py:59
+msgid "%(name)s died on %(date)s at the age of %(age)s in %(place)s."
+msgstr "%(name)s ist am %(date)s im Alter von %(age)s Jahren in %(place)s gestorben."
+
+#: lib/narrator.py:60
+msgid "%(name)s died in %(date)s at the age of %(age)s in %(place)s."
+msgstr "%(name)s ist %(date)s im Alter von %(age)s Jahren in %(place)s gestorben."
+
+#: lib/narrator.py:65
+msgid "%(name)s died on %(date)s in %(place)s."
+msgstr "%(name)s ist am %(date)s in %(place)s gestorben."
+
+#: lib/narrator.py:66
+msgid "%(name)s died in %(date)s in %(place)s."
+msgstr "%(name)s ist %(date)s in %(place)s gestorben."
+
+#: lib/narrator.py:71
+msgid "%(name)s died on %(date)s at the age of %(age)s ."
+msgstr "%(name)s ist am %(date)s im Alter von %(age)s Jahren gestorben."
+
+#: lib/narrator.py:72
+msgid "%(name)s died in %(date)s at the age of %(age)s ."
+msgstr "%(name)s ist %(date)s im Alter von %(age)s Jahren gestorben."
+
+#: lib/narrator.py:77
+msgid "%(name)s died on %(date)s."
+msgstr "%(name)s ist am %(date)s gestorben."
+
+#: lib/narrator.py:78
+msgid "%(name)s died in %(date)s."
+msgstr "%(name)s ist %(date)s gestorben."
+
+#: lib/narrator.py:83
+msgid "%(name)s is the son of %(parents)s."
+msgstr "%(name)s ist der Sohn von %(parents)s."
+
+#: lib/narrator.py:84
+msgid "%(name)s is the daughter of %(parents)s."
+msgstr "%(name)s ist die Tochter von %(parents)s."
+
+#: lib/narrator.py:89
+msgid "His parents are %(father)s and %(mother)s."
+msgstr "Seine Eltern sind %(father)s und %(mother)s."
+
+#: lib/narrator.py:90
+msgid "Her parents are %(father)s and %(mother)s."
+msgstr "Ihre Eltern sind %(father)s und %(mother)s."
+
+#: lib/narrator.py:96
+msgid "The name of his brother is %(siblings)s."
+msgstr "Der Name seines Bruders ist %(siblings)s."
+
+#: lib/narrator.py:97
+msgid "The name of his sister is %(siblings)s."
+msgstr "Der Name seiner Schwester ist %(siblings)s."
+
+#: lib/narrator.py:100
+msgid "The name of her brother is %(siblings)s."
+msgstr "Der Name ihres Bruders ist %(siblings)s."
+
+#: lib/narrator.py:101
+msgid "The name of her sister is %(siblings)s."
+msgstr "Der Name ihrer Schester ist %(siblings)s."
+
+#: lib/narrator.py:107
+msgid "His siblings are %(siblings)s."
+msgstr "Seine Geschwister sind %(siblings)s."
+
+#: lib/narrator.py:108
+msgid "Her siblings are %(siblings)s."
+msgstr "Ihre Geschwister sind %(siblings)s."
+
+#: lib/narrator.py:113
+msgid "%(name)s married %(partner)s."
+msgstr "%(name)s heiratet %(partner)s."
+
+#: lib/narrator.py:114
+msgid "%(name)s is the partner of %(partner)s."
+msgstr "%(name)s ist der Lebenspartner von %(partner)s."
+
+#: lib/narrator.py:118
+msgid "%(name)s married %(partner)s on %(date)s in %(place)s."
+msgstr "%(name)s heiratet %(partner)s am %(date)s in %(place)s."
+
+#: lib/narrator.py:121
+msgid "%(names)s married on %(date)s in %(place)s."
+msgstr "%(names)s heiraten am %(date)s in %(place)s."
+
+#: lib/narrator.py:124
+msgid "%(names)s are married."
+msgstr "%(names)s sind verheiratet."
+
+#: lib/narrator.py:127
+msgid "%(name)s was %(age)s years old."
+msgstr "%(name)s war %(age)s Jahre alt."
+
+#: lib/narrator.py:130
+msgid "%(name)s was %(age)s years old and %(partner)s %(partner_age)s years."
+msgstr "%(name)s war %(age)s Jahre alt und %(partner)s %(partner_age)s Jahre."
+
+#: lib/narrator.py:133
+msgid "%(name_and_partner)s have %(count)s children together. They are called %(children)s."
+msgstr "%(name_and_partner)s haben gemeinsam %(count)s Kinder. Sie heißen %(children)s."
+
+#: lib/narrator.py:137
+msgid "%(name_and_partner)s have a child called %(children)s."
+msgstr "%(name_and_partner)s haben ein gemeinsames Kind namens %(children)s."
+
+#: lib/narrator.py:138
+msgid "%(name_and_partner)s have a son. He is called %(children)s."
+msgstr "%(name_and_partner)s haben zusammen einen Sohn. Er heißt %(children)s."
+
+#: lib/narrator.py:139
+msgid "%(name_and_partner)s have a daughter. She is called %(children)s."
+msgstr "%(name_and_partner)s haben zusammen eine Tochter. Sie heißt %(children)s."
+
+#: makepages.py:148
+msgid "Familybook"
+msgstr "Familienchronik"
+
+#: makepages.py:157
+msgid "A report on the generations of the families %s."
+msgstr "Ein Bericht über die Generationen der Familien %s."
+
+#: makepages.py:161
+msgid "Families"
+msgstr "Familien"
+
+#: makepages.py:168
+msgid "Persons"
+msgstr "Personen"
+
