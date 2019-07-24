@@ -1,0 +1,11 @@
+Lily Evans
+==========
+Lily J. Evans.
+Sie wurde am 30. Januar 1960 geboren.
+Der Name ihrer Schester ist Petunia.
+
+Lily Evans ist der Lebenspartner von James Potter. :doc:`James und Lily<@F10148954@>` haben ein gemeinsames Kind namens Harry.
+
+Lily ist am 31. Oktober 1981 im Alter von 21 Jahren in Godric's Hollow gestorben.
+
+.. image:: @I43481114@tree.png

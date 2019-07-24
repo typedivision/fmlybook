@@ -1,0 +1,16 @@
+James Potter & Lily Evans
+=========================
+:doc:`James<@I81585502@>` Potter wurde am 27. März 1960 geboren.
+Seine Eltern sind Fleamont Potter und Euphemia (Potter).
+James ist am 31. Oktober 1981 gestorben.
+
+:doc:`Lily<@I43481114@>` J. Evans wurde am 30. Januar 1960 geboren.
+Lily ist am 31. Oktober 1981 gestorben.
+
+
+James und Lily haben zusammen einen Sohn. Er heißt :doc:`Harry<@I76753198@>`.
+
+.. image:: @F10148954@tree.png
+
+Harry James Potter wurde am 31. Juli 1980 in Godric's Hollow geboren.
+

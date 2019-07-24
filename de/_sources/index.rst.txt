@@ -1,0 +1,20 @@
+Familienchronik
+===============
+Ein Bericht über die Generationen der Familien :doc:`Potter und Weasley<pages/@F59662488@>`.
+
+*Familien*
+
+.. toctree::
+   pages/@F59662488@
+   pages/@F10148954@
+   pages/@F58900171@
+
+*Personen*
+
+.. toctree::
+   pages/@I76753198@
+   pages/@I65286926@
+   pages/@I81585502@
+   pages/@I43481114@
+   pages/@I48507016@
+   pages/@I45118665@
