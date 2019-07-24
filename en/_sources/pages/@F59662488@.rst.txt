@@ -1,0 +1,21 @@
+Harry Potter & Ginny Weasley
+============================
+:doc:`Harry<@I76753198@>` James Potter was born on July 31, 1980.
+His parents are :doc:`James<@I81585502@>` Potter and :doc:`Lily<@I43481114@>` Evans.
+
+
+Ginevra Molly ":doc:`Ginny<@I65286926@>`" Weasley was born on August 11, 1981.
+Her parents are :doc:`Arthur<@I48507016@>` Weasley and :doc:`Molly<@I45118665@>` Prewett.
+
+
+Harry Potter and Ginny Weasley are married.
+Harry and Ginny have 3 children together. They are called James, Albus and Lily.
+
+.. image:: @F59662488@tree.png
+
+James Sirius Potter was born in 2004.
+
+Albus Severus Potter was born in 2006.
+
+Lily Luna Potter was born in 2008.
+

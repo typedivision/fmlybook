@@ -1,0 +1,11 @@
+Ginny Weasley
+=============
+Ginevra Molly "Ginny" Weasley is the daughter of :doc:`Arthur Weasley and Molly Prewett<@F58900171@>`.
+She was born on August 11, 1981.
+Her siblings are Bill, Charlie, Percy, George, Fred and Ron.
+
+Ginny Weasley married Harry Potter. :doc:`Harry and Ginny<@F59662488@>` have 3 children together. They are called James, Albus and Lily.
+
+
+
+.. image:: @I65286926@tree.png

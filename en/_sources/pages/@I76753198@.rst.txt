@@ -1,0 +1,11 @@
+Harry Potter
+============
+Harry James Potter is the son of :doc:`James Potter and Lily Evans<@F10148954@>`.
+He was born on July 31, 1980 in Godric's Hollow.
+
+
+Harry Potter married Ginny Weasley. :doc:`Harry and Ginny<@F59662488@>` have 3 children together. They are called James, Albus and Lily.
+
+
+
+.. image:: @I76753198@tree.png

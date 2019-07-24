@@ -1,0 +1,20 @@
+Familybook
+==========
+A report on the generations of the families :doc:`Potter and Weasley<pages/@F59662488@>`.
+
+*Families*
+
+.. toctree::
+   pages/@F59662488@
+   pages/@F10148954@
+   pages/@F58900171@
+
+*Persons*
+
+.. toctree::
+   pages/@I76753198@
+   pages/@I65286926@
+   pages/@I81585502@
+   pages/@I43481114@
+   pages/@I48507016@
+   pages/@I45118665@

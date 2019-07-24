@@ -1,0 +1,11 @@
+James Potter
+============
+James Potter is the son of Fleamont Potter and Euphemia (Potter).
+He was born on March 27, 1960.
+
+
+James Potter is the partner of Lily Evans. :doc:`James and Lily<@F10148954@>` have a child called Harry.
+
+James died on October 31, 1981 at the age of 21 in Godric's Hollow.
+
+.. image:: @I81585502@tree.png

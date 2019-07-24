@@ -1,0 +1,11 @@
+Arthur Weasley
+==============
+Arthur Weasley is the son of Septimus Weasley and Cedrella Black.
+He was born on February 6, 1950.
+
+
+Arthur Weasley is the partner of Molly Prewett. :doc:`Arthur and Molly<@F58900171@>` have 7 children together. They are called Bill, Charlie, Percy, George, Fred, Ron and Ginny.
+
+
+
+.. image:: @I48507016@tree.png

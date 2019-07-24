@@ -1,0 +1,11 @@
+Molly Prewett
+=============
+Molly Prewett.
+She was born on October 30, 1950.
+Her siblings are Fabian and Gideon.
+
+Molly Prewett is the partner of Arthur Weasley. :doc:`Arthur and Molly<@F58900171@>` have 7 children together. They are called Bill, Charlie, Percy, George, Fred, Ron and Ginny.
+
+
+
+.. image:: @I45118665@tree.png

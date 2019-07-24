@@ -1,0 +1,11 @@
+Lily Evans
+==========
+Lily J. Evans.
+She was born on January 30, 1960.
+The name of her sister is Petunia.
+
+Lily Evans is the partner of James Potter. :doc:`James and Lily<@F10148954@>` have a child called Harry.
+
+Lily died on October 31, 1981 at the age of 21 in Godric's Hollow.
+
+.. image:: @I43481114@tree.png
